@@ -1,0 +1,15 @@
+node_modules
+dist
+build
+.vscode
+.DS_Store
+.env
+.env.local
+*.db
+*.sqlite
+/public/models/*.onnx
+/public/models/*.bin
+/public/models/*.json
+**/package-lock.json
+**/yarn.lock
+**/pnpm-lock.yaml
